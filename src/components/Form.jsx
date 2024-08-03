@@ -1,3 +1,4 @@
+import React from 'react';
 import { useState, useCallback } from "react";
 
 const Form = ({ setValueEmoji, toggleDarkMode, darkMode }) => {
